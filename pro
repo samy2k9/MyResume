@@ -1,6 +1,7 @@
-
-vuvuvi
-ugivivi
-vivibibi
-igiv8
-h8h8h8h8h8h
+{
+"app_id":"",
+"banner":"",
+"interstitial":"",
+"rewarded_video":"",
+"force_update":"false"
+}
