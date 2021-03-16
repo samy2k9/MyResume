@@ -1,5 +1,5 @@
 {
-"app_id":"",
+"app_id":"jhghjgjhgjhgj",
 "banner":"",
 "interstitial":"",
 "rewarded_video":"",
