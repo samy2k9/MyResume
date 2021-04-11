@@ -5,6 +5,7 @@
 "rewarded_video":"ca-app-pub-3940256099942544/5224354917",
 "APP_ID":"app706e0bd2e3284fa297",
 "ZONE_ID":"vzff7900ddbdb14683a1",
+"imp_interval":"5",
 "force_update":"false",
 "ad_network":"adcolony"
 }
