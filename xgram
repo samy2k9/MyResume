@@ -1,7 +1,13 @@
-{
-"server":"",
-"port":"",
-"username":"",
-"sercret":"",
-"password":""
-}
+[{
+	"id": "1",
+	"url": "https:\/\/t.me\/proxy?server=Makon.tsetmc.tsetmc--com.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t",
+	"login": "false"
+}, {
+	"id": "2",
+	"url": "https:\/\/t.me\/proxy?server=digikala.ir.digikala--ir.ga.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFrZXRhYWJvbmxpbmUuY29t",
+	"login": "false"
+}, {
+	"id": "3",
+	"url": "https:\/\/t.me\/proxy?server=54.151.134.34&port=443&ref_secret-share=@mtprotoproxies&secret=dd00000000000000000000000000000000",
+	"login": "true"
+}]
